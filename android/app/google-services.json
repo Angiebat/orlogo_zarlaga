@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "459567867167",
+    "project_id": "orlogozarlaga-15829",
+    "storage_bucket": "orlogozarlaga-15829.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459567867167:android:7c2d83fc123dd8913d7c2a",
+        "android_client_info": {
+          "package_name": "com.example.orlogo_zarlaga"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_mxrLWTgvKBjwqWmeiUnIh5wCnBwMxa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
